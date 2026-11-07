@@ -1,0 +1,14 @@
+@font-face {
+	font-family: 'Orbitron';
+	src:url('./assets/Orbitron/Orbitron-VariableFont_wght.ttf') format('truetype');
+	font-display: swap;
+}
+
+
+footer {
+	font-family: sans-serif;
+	font-size:10px;
+	width:100%;
+	text-align: center;
+	color:#CCD5DB;
+}
